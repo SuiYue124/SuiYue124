@@ -19,5 +19,5 @@
 </p>
 -->
 
-| <a href="https://github.com/SuiYue124"><img alt="🦑" width="400px" src="https://github-readme-stats.vercel.app/api?username=SuiYue124&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="GWen124's github stats" /></a> | <a href="https://github.com/SuiYue124"><img alt="🦑" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuiYue124&layout=compact&theme=gruvbox&hide_border=true" /></a> |
+| <a href="https://github.com/SuiYue124"><img alt="🦑" width="400px" src="https://github-readme-stats.vercel.app/api?username=SuiYue124&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="GWen124's github stats" /></a> | <a href="https://github.com/SuiYue124"><img alt="🦑" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuiYue124&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- |  ------------- | 
