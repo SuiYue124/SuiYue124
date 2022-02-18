@@ -18,7 +18,7 @@
 
 
 | <a href="https://github.com/GWen124"><img alt="GWen124's github stats; s github activity graph" align="center" src="https://activity-graph.herokuapp.com/graph?username=SuiYue124&amp;bg_color=fefefe&amp;color=000000&amp;line=4bc0c8&amp;point=feac5e&amp;area=true&amp;hide_border=false"/></a> | 
-| ------------- |  ------------- | 
+| ------------------------------ | 
 
 <a href="https://github.com/GWen124"><img alt="🦑"  src="https://github.com/GWen124/Script/blob/master/Image/img/115834477.gif"></a>
 
